@@ -86,6 +86,7 @@ output:
 
 ##	Halkla İlişkilerin Çalışmadaki İşlevi Üzerine
 
+
 İklim değişikliği, ülkeleri farklı şekillerde etkileyen küresel bir krizdir. Pek çok ülkede iklim değişikliğinin etkileri, üretim ve kalkınma sektörlerini hâlihazırda etkilemektedir. Düşük ve orta gelirli ülkeler; alternatif teknolojileri benimseme, nüfus uygulamalarını izleme ve bu krizin etkilerini hafifletmeye yönelik stratejileri uygulama konusunda sınırlı mali ve teknik kapasiteleri nedeniyle iklim değişikliğinin etkilerine karşı savunmasız kalmaktadır. Bununla birlikte, birçok ülke sorunu çözmek için yeterli yanıtları destekleyecek politikalardan yoksun kalmaya devam etmektedir. [@glasgow2018public]
 
 
@@ -99,11 +100,10 @@ Bu bölümde; halkla ilişkilerin farklı tanımları, aşamaları, mükemmellik
 
 Bir olgunun nerede, ne zaman ve nasıl başladığını bilmek de genellikle ne olduğunu anlamaya yardımcı olmaktadır. Halkla ilişkilerin geçmişte nasıl kullanıldığına, geçtiğimiz yüzyılda nasıl değiştiğine bakıldığında ve onu tanımlamanın zorluğu göz önüne alındığında tarihinin de kafa karıştırıcı olması şaşırtıcı değildir. Kurumsal kimliğin erken örnekleri olarak bayraklardan, Roma sikkelerinden mağara resimlerine kadar uzanmaktadır. Tom Paine’nin İnsan Hakları gibi, on sekizinci yüzyılın sonlarında ve on dokuzuncu yüzyılın başlarında dağıtılan broşürler de diğer örneklerdir. 19 yüzyılda okuryazarlık ve matbaalarındaki artış; broşür ve gazete makaleleri ile yürütülen sağlık, oy hakkı ve eğitimle ilgili birçok reform kampanyasına yol açmıştır. Bunlar birer erken dönem halkla ilişkiler örnekleri olarak gösterilmektedir. [@theaker2016public]
 
-Bazı yazarlar, geçmişte halkla ilişkiler kavramsal olarak kullanılmasa da halkla ilişkiler faaliyetlerinin olduğunu savunmaktadır. Halkla ilişkilerin başlangıcının, eski Yunan ve Roma imparatorluğu zamanında Julius Cesar ve Cicero’nun yapmış olduğu kamuoyunu biçimlendirmesi çalışmalarına kadar dayandığı ifade edilebilir. Cutlip ve Center ise, M.Ö. 1800’lü yıllarda, çiftçilere yönelik olarak hazırlanan tarımsal bir ürünün yetiştirilmesi ve ürünün zararlı etkilerinden korunmak gibi bilgileri içeren tabletleri; ilk halkla ilişkiler örnekleri olarak göstererek, bu tabletlerin bugünün Birleşik Devletler Tarım Bakanlığı tarafından hazırlanan bültenlerden çok da farklı olmadığını iddia etmişlerdir.[@peltekoglu2016halkla] Şekil 1.1’de halkla ilişkiler literatüründe yaygın olarak bilinen olayların bir çizelgesi yer almaktadır.   
+Bazı yazarlar, geçmişte halkla ilişkiler kavramsal olarak kullanılmasa da halkla ilişkiler faaliyetlerinin olduğunu savunmaktadır. Halkla ilişkilerin başlangıcının, eski Yunan ve Roma imparatorluğu zamanında Julius Cesar ve Cicero’nun yapmış olduğu kamuoyunu biçimlendirmesi çalışmalarına kadar dayandığı ifade edilebilir. Cutlip ve Center ise, M.Ö. 1800’lü yıllarda, çiftçilere yönelik olarak hazırlanan tarımsal bir ürünün yetiştirilmesi ve ürünün zararlı etkilerinden korunmak gibi bilgileri içeren tabletleri; ilk halkla ilişkiler örnekleri olarak göstererek, bu tabletlerin bugünün Birleşik Devletler Tarım Bakanlığı tarafından hazırlanan bültenlerden çok da farklı olmadığını iddia etmişlerdir.[@peltekoglu2016halkla] \@ref(fig:sekilll)Şekil 1.1’de halkla ilişkiler literatüründe yaygın olarak bilinen olayların bir çizelgesi yer almaktadır.   
 
 
-
-
+\@ref(fig:sekilll)
 **Şekil 1.1:**  Halkla İlişkilerde Olayları ve Kişileri Tanımlama Zaman Çizelgesi.
 
 
@@ -320,6 +320,11 @@ Sosyal medya, insanların içerik, fikir, deneyim ve görüşlerini paylaşması
 Dijital medya; küresel, stratejik, iki yönlü, etkileşimli, simetrik/diyalojik ve sosyal olarak sorumlu hale getirme gibi potansiyellere sahiptir. Halkla ilişkilerin dijital medyayı tam olarak kullanabilmesi için uygulayıcılar ve akademisyenler; halkla ilişkileri sembolik, yorumlayıcı bir paradigma yerine, davranışsal, stratejik bir yönetim paradigması olarak yeniden kurumsallaştırmalıdır (J. E. Grunig, 2009: 1). Grunig’e göre organizasyonlar; kendi hedef kitlesi olmayan gruplarla sosyal ağlar üzerinde iletişim kurabilir ve onlarla etkileşim kursa dahi bu durum organizasyonların hedef kitlesi olmayan gruplarla ilişki geliştirmesini gerektirmediğini belirtmektedir. Organizasyonların herkesle iletişim kuracak ne zamanları ne de kaynakları olduğunu ifade etmektedir. Her ne kadar organizasyonlar, hedef kitlesi içerisinde yer almayan kişilerle iletişim kursa da halkla ilişkilerin organizasyonun mevcut hedef kitle ilişkileriyle ilgili olduğunu vurgulamaktadır (s. 6).  [@grunig2009paradigms] Her ne kadar bu durum çok genel bir ifade olsa da özellikle iklim, çevre ve savaş gibi tüm dünyayı etkileyecek konularda devletler, bağımsız kuruluşlar ve sivil toplum kuruluşları; her bir toplumu ve bireyi dikkate almak durumunda kalabilirler. Özellikle uluslararası sivil toplum kuruluşları, faaliyetlerini herkese ulaştırma noktasında iletişimlerini gerçekleştirirler. 
 
 **Şekil 1.3:** Phillips'in Dijital İletişim Araçları Modeli. 
+
+\begin{figure}
+\includegraphics[width=1\linewidth,height=1\textheight]{sekil-1} \caption{A nice image.}(\#fig:unnamed-chunk-1)
+\end{figure}
+
  
 Kaynak: (Mavimbela ve diğerleri, 2018: 42)
 
@@ -358,6 +363,12 @@ Sosyal medya katılımıyla ilgili yapılan çalışmalara örnek olarak, Facebo
 Hedef gruplarının ilgisini çekecek bilgiler sağlanması, gerekli görülen durumlarda iki yönlü bir iletişim kurulması ve organizasyonların sosyal bir varlık olarak etkili ve uyumlu iletişim stratejileri oluşturması, kullanıcıların beğeni, yorum ve paylaşım yapmalarını etkili bir şekilde teşvik edecektir.  
 
 
+
+See Figure \@ref(type:label)
+
+{r cars-plot, fig.cap="The cars data.", echo=FALSE}
+
+burada şekil var
 
 
 
@@ -427,7 +438,10 @@ Sepal.Length & Sepal.Width & Petal.Length & Petal.Width & Species\\
 \end{table}
 
 You can write citations, too. For example, we are using the **bookdown** package [@R-bookdown] in this sample book, which was built on top of R Markdown and **knitr** [@xie2015].
-.
+
+
+
+
 
 <!--chapter:end:01-BOLUM.Rmd-->
 
