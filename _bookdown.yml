@@ -4,4 +4,25 @@ before_chapter_script: _common.R
 delete_merged_file: true
 language:
   ui:
-    chapter_name: "Chapter "
+    chapter_name: "Bölüm "
+
+
+rmd_files: [
+  "index.Rmd",
+  "06-OZ.Rmd",
+  "07-ABSTRACT.Rmd",
+  "08-ONSOZ.Rmd",
+  "09-ICINDEKILER.Rmd",
+  "010-TABLOLAR.Rmd",
+  "011-SEKILLER.Rmd",
+  "012-KISALTMALAR.Rmd",
+  "01-BOLUM.Rmd",
+  "02-BOLUM.Rmd",
+  "03-BOLUM.Rmd",
+  "04-BOLUM.Rmd",
+  "013-SONUC.Rmd",
+  "014-EKLER.Rmd",
+  "015-OZGECMIS.Rmd",
+  "05-References.Rmd"
+
+]

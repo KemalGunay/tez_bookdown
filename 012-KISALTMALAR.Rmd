@@ -1,0 +1,1 @@
+# KISALTMALAR LİSTESİ {-}

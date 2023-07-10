@@ -15,7 +15,7 @@ biblio-style: apalike
 csl: chicago-fullnote-bibliography.csl
 ---
 
-# Giriş {-}
+# GİRİŞ {-}
 
 İklim değişikliği konusu 1980'lerden beri çevresel söylemlere hâkim olmaktadır. Birçok kişi tarafından dünya çapındaki en tehdit edici problemlerden biri olarak görülmektedir ve bu sorunu ele almak küresel bir öncelik haline gelmiştir. İklim sorunu göze batmayan, karmaşık, birçok insan için doğrudan ve kolayca algılanamayan bir konudur. Bununla birlikte iklim değişikliği iletişimi üzerine yapılan araştırmalar iklim değişikliğine ilişkin bireysel algıların halkın, medyanın ve diğer bilgi kaynaklarının konuyu nasıl tasvir ettiğinden güçlü bir şekilde etkilendiğini göstermektedir. Buna göre bu bilgi kaynakları iklim değişikliğinin üretiminde, yeniden üretiminde ve anlamının dönüştürülmesinde önemli faktörlerdir.[@mahl2020bit]
 

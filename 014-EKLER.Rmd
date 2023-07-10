@@ -1,0 +1,12 @@
+# EKLER {-}
+
+
+Çalışmada kullanılan Python, R kodlarına ve veri setlerine aşağıdaki link ya da QR kodu vasıtasıyla erişebilirsiniz.
+
+**LINK:** https://github.com/KemalGunay
+
+
+ 
+```{r, echo=FALSE, out.width="95%", out.height= "95%"}
+knitr::include_graphics("/Users/kemalgunay/Desktop/VERI_BILIMI/tez_bookdown2/tablolar-sekiller/karekod.png")
+```
