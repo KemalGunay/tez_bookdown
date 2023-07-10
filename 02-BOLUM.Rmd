@@ -1,4 +1,5 @@
 
+# (PART\*)  İKİNCİ BÖLÜM
 	
 # İKLİM DEĞİŞİKLİĞİ ÜZERİNE KURAMSAL BİR ÇERÇEVE
 Çalışmanın ikinci bölümü, iklim değişikliği üzerine kavramsal bir çerçeve çizmeyi amaçlamaktadır. Bu bağlamda iklim değişikliği, iklim krizi ve küresel ısınma gibi kavramlar tanımlanmış ve aralarındaki nüanslar ele alınmıştır. İklim krizinin etkileri ve sonuçları tartışılmış, ayrıca iklim değişikliğine yönelik alınabilecek önlemler hakkında bilgi verilmiştir. Çevre ve iklim iletişimi bağlamında halkla ilişkiler uygulamalarını yorumlayabilmek için bu başlıklar önem arz etmektedir.

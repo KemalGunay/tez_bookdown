@@ -1,4 +1,6 @@
 
+# (PART\*)  ÜÇÜNCÜ BÖLÜM
+
 # İKLİM DEĞİŞİKLİĞİ İLETİŞİMİ ve AKTÖRLERİ 
 
 

@@ -3,6 +3,9 @@ output:
   html_document: default
   pdf_document: default
 ---
+
+# (PART\*)  BİRİNCİ BÖLÜM
+
 # HALKLA İLİŞKİLER KAVRAMSAL ÇERÇEVESİ {#intro}
 
 ##	Halkla İlişkilerin Çalışmadaki İşlevi Üzerine
