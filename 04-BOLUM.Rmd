@@ -1,7 +1,6 @@
 
-# DÖRDÜNCÜ BÖLÜM
-HALKLA İLİŞKİLER BAĞLAMINDA İKLİM KRİZİ VE AKTÖRLERİ ÜZERİNE BİR ARAŞTIRMA
-Araştırmaya Giriş
+# HALKLA İLİŞKİLER BAĞLAMINDA İKLİM KRİZİ VE AKTÖRLERİ ÜZERİNE BİR ARAŞTIRMA
+## Araştırmaya Giriş
 
 Araştırmanın bu bölümünde, iklim aktörlerinin Twitter üzerinde yaptığı paylaşımlar incelenerek daha iyi bir iklim değişikliği iletişimi gerçekleştirilmesi noktasında araştırma problemleri yanıtlanmaya çalışılmıştır. Araştırma soruları, çalışmanın literatüründe değinilen halkla ilişkiler, çevre ve iklim değişikliği iletişimleri literatürü kapsamında ele alınmıştır. 
 
