@@ -12,6 +12,7 @@ Araştırmada hem sivil toplum kuruluşlarının hem de bakanlıkların bir sosy
 Çalışmada, kuruluşların Twitter sayfalarındaki diyalojik ilkeleri belirlenmiş ve bu kuruluşlarla halkın katılımı incelenmiş, bu kapsamda 17381 tweetin içerik analizi gerçekleştirilmiştir. Hedef gruplarının; beğeniler, retweetler ve yorumlar açısından Twitter'daki aktörlerle nasıl etkileşime geçtiğine yönelik bir araştırma yapılmıştır. Beş diyalojik ilke arasında yer alan arayüzün kullanıcı dostu olması, Twitter'ın arayüzü standartlaştırıldığı ve profiller arasında sabit kaldığı için analizden çıkarılmıştır (Rybalko ve Seltzer, 2010).  İkinci olarak elde edilen veriler, Grunig ve Hunt’un dört halkla ilişkiler modeli çerçevesinde karşılaştırılmıştır.  Son olarak, iklim krizi ve çevreyle ilgili dijital ortamda tartışılan konuların ağırlıkları tespit edilmeye çalışılmıştır. 
 
 Bu noktadan hareketle, araştırmanın amacı açıklanmış, bu amaç doğrultusunda araştırmanın önemi ifade edilmiştir. Çalışmanın amacı ve önemi kapsamında araştırma soruları tanımlanmış ve detaylandırılmıştır. 
+
 Çalışmanın bu bölümünde, araştırmanın sınırlılıkları teknik ve metodolojik olarak açıklanmıştır. Araştırma hem teorik hem de teknik olarak yenilikçi bir yaklaşım da sergilediğinden dolayı tespit edilen sınırlılıklara bu başlık altında değinilmiştir.
 Bulgular bölümünde, çalışma içerisinde yer alan üç ayrı araştırmanın bulguları ortaya koyulmuştur. Araştırma sorularına yönelik analiz edilen veriler, istatistiksel yöntemlerle cevaplanmıştır. Bulguların tartışıldığı ve değerlendirildiği bölümde; halkla ilişkiler, çevre ve iklim değişikliği iletişimi alanında, literatürle bağlantılı referans noktalarına göre değerlendirmeler yapılmıştır.
 
@@ -39,26 +40,32 @@ Bu çalışma, Python ve R gibi hem veri analiz araçlarının hem büyük veri 
 Özet olarak, çalışma; iklim acil eylemi kapsamında kamuoyunu bilgilendirme ve onları ikna etmeye yönelik iletişimler üzerine bir analiz sunmaktadır. Araştırma, kapsamlı bir şekilde halkla ilişkiler ve iklim krizi problemini birlikte ele alan ilk çalışmalardan bir tanesidir. Çalışma bu yönüyle “İklim Değişikliği İletişimi” kavramının Türkçe literatürde tanımlanması ve veri teknolojilerinin halkla ilişkiler yaklaşımlarına uyarlanması açısından da önem arz etmektedir.
 
 ## Araştırma Soruları
-**AS1:** İklim aktörleri Twitter sayfalarında diyalojik ilkeleri nasıl kullanmaktadır? **AS2:** İklim aktörlerinin diyalojik ilkeleri, Twitter'da uygulamaları açısından bir farklılık gösteriyor mu?
+**AS1:** İklim aktörleri Twitter sayfalarında diyalojik ilkeleri nasıl kullanmaktadır? 
+**AS2:** İklim aktörlerinin diyalojik ilkeleri, Twitter'da uygulamaları açısından bir 
+farklılık gösteriyor mu?
+
 **AS3:** Hedef kitleler beğeniler, retweetler ve yorumlar açısından Twitter'daki aktörlerle nasıl etkileşime girmektedir?
+
 **AS4:** İklim aktörleri arasında beğeniler, retweetler ve yorumlar açısından kamu katılımında bir fark var mı? 
+
 **AS5:** İklim aktörleri Twitter’ı Grunig ve Hunt’un dört modeline göre nasıl konumlandırmaktadır?
+
 **AS6:** Çevre ve iklim değişikliği hakkında Türkiye’de Twitter ortamında gerçekleştirilen tartışmalarda sorun olarak görülen konular nelerdir? Bu konuların dağılımları nasıldır? 
 
 ## Araştırmanın Sınırlılıkları
-	Twitter’dan veri çekme işlemi sırasında hem Python programı hem de Twitter API’dan kaynaklı veri kayıpları olabilmektedir.
+* Twitter’dan veri çekme işlemi sırasında hem Python programı hem de Twitter API’dan kaynaklı veri kayıpları olabilmektedir.
 	
-	Bazı iklim aktörlerinin Twitter paylaşımlarında yeterince iklim konusuyla ilgili yeterince veri bulunmamasından bu aktörlerin konuya yeterince önem vermediği sonucu çıkarılmamalıdır.
+* Bazı iklim aktörlerinin Twitter paylaşımlarında yeterince iklim konusuyla ilgili yeterince veri bulunmamasından bu aktörlerin konuya yeterince önem vermediği sonucu çıkarılmamalıdır.
 	
-	Çalışmada sadece Türkçe dilinde paylaşılan tweetler baz alınmıştır. Aktörlerin diğer dillerde yapılan paylaşımları göz ardı edilmiştir.
+* Çalışmada sadece Türkçe dilinde paylaşılan tweetler baz alınmıştır. Aktörlerin diğer dillerde yapılan paylaşımları göz ardı edilmiştir.
 	
-	Diyalojik iletişim ve dört model için kullanılan veriler anlamsal olarak incelenmemiştir. İçerikler araçsal olarak ele alınmıştır. Örneğin; fotoğraf içerisinde yer alan görselin anlamı incelenmemiştir.
+* Diyalojik iletişim ve dört model için kullanılan veriler anlamsal olarak incelenmemiştir. İçerikler araçsal olarak ele alınmıştır. Örneğin; fotoğraf içerisinde yer alan görselin anlamı incelenmemiştir.
 	
-	Kurumların başındaki yetkililer de kurum adına paylaşımlar yapabilmektedir. Örneğin, bir bakanlığın başında bulunan yetkili kendi Twitter hesabından açıklamada bulunabilmektedir. Bu tweetler çalışmada yer almamıştır.
+* Kurumların başındaki yetkililer de kurum adına paylaşımlar yapabilmektedir. Örneğin, bir bakanlığın başında bulunan yetkili kendi Twitter hesabından açıklamada bulunabilmektedir. Bu tweetler çalışmada yer almamıştır.
 	
-	01 Ocak 2020 – 01 Ocak 2022 tarihleri arasında toplam 10 farklı iklim aktöründen veriler toplanmıştır.
+* 01 Ocak 2020 – 01 Ocak 2022 tarihleri arasında toplam 10 farklı iklim aktöründen veriler toplanmıştır.
 	
-	Konu modelleme analizinde, doğrudan çevre ve iklim konu modellemesi olduğu için araştırmaya sadece sivil toplum kuruluşları araştırmaya dahil edilmiştir.
+* Konu modelleme analizinde, doğrudan çevre ve iklim konu modellemesi olduğu için araştırmaya sadece sivil toplum kuruluşları araştırmaya dahil edilmiştir.
 	
 ## Araştırma Yöntemi
 Bu çalışmada birden fazla araştırma yaklaşımı kullanılmıştır. Çalışma kapsamında, içerik analizi (Yıldırım ve Şimşek, 2018: 242) yoluyla veriler tanımlanmış, verilerden farklı değişkenler türetilmiş, veriler belirli kavramlar ve temalar çerçevesinde bir araya getirilmiştir.
@@ -110,7 +117,6 @@ knitr::include_graphics("/Users/kemalgunay/Desktop/VERI_BILIMI/tez_bookdown2/tab
  
 Kaynak: (Grimmer ve Stewart, 2013: 268)
 
-“Introduction to Machine Learning” kitabında gözetimli ve gözetimsiz öğrenme aşağıdaki gibi tanımlanmaktır (Alpaydın, 2014).
 
 Gözetimli Öğrenme (Supervised Learning-Classification): Gözetimli öğrenme ya da denetimli öğrenme olarak adlandırılan bu öğrenme yaklaşımında amaç, doğru değerlerin bir süpervizör tarafından sağlanan girdiden çıktıya kadar bir eşleme öğrenmektir.
 Gözetimsiz Öğrenme (Unsupervised Learning-Clustering): Gözetimsiz ya da denetimsiz öğrenmede gözetimli öğrenmedeki gibi bir süpervizör bulunmamaktadır. Elimizde sadece girdi verisi bulunur. Amaç girdi düzenliliklerini bulmaktır. Girdi uzayının belirli kalıplarında diğerlerinden daha sık meydana gelen bir yapı bulunmaktadır. Genellikle neyin olup neyin olmadığı görülmek istenir. İstatistikte buna yoğunluk tahmini denir.

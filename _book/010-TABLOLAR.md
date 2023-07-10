@@ -1,7 +1,5 @@
 # TABLOLAR LİSTESİ {-}
 
-TABLOLAR LİSTESİ
-
 **Tablo 1.1:** Mükemmel Halkla İlişkiler Programlarının Özellikleri	16
 
 **Tablo 1.2:** Anlaşma Oryantasyonlu Halkla İlişkiler Safhaları	21

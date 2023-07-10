@@ -1,6 +1,7 @@
 # ABSTRACT {-}
 
-PUBLIC RELATIONS AND CLIMATE CHANGE: A COMPARISON OF MINISTRY AND NGO'S PUBLIC RELATIONS ACTIVITIES ON TWITTER
+**PUBLIC RELATIONS AND CLIMATE CHANGE: A COMPARISON OF MINISTRY AND NGO'S PUBLIC RELATIONS ACTIVITIES ON TWITTER**
+
 KEMAL GÜNAY
 
 Climate change is emerging as both the most urgent public issue for governments and the most severe existential crisis faced by humanity. The burning of fossil fuels such as oil, coal, and natural gas is causing an increase in the levels of trapped carbon dioxide and other greenhouse gases, which is leading to rising temperatures in all regions of the world. This results in problems such as heat waves, heavy rains, droughts, sea level rises, and loss of biodiversity. These issues are also causing problems such as food security, health, and water resources.

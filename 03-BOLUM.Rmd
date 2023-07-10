@@ -31,11 +31,17 @@ Cox ve Pezzullo, çevre iletişimini informal ve formal olarak iki şekilde tan�
 Corbet, “Communicating Nature: How We Create and An Environmental Messages” adlı kitabında genişletilmiş bir kapsamda aşağıdaki maddeler bağlamında çevre iletişimini tanımlanmaktadır (s.8). [@corbett2006] Çevre iletişimi; değerler, kelimeler, eylemler ve günlük uygulamalarla ifade edilmektedir. 
 
 •	Bireysel olarak yorumlanır ve müzakere edilir. 
+
 •	Tarihsel ve kültürel olarak kök salmıştır. 
+
 •	İdeolojik olarak türetilir ve yönlendirilir.
+
 •	Çevresel iletişim, çevreye araçsal değer atfeden ve onun insanlara hizmet etmek için var olduğuna inanan baskın bir sosyal paradigmanın içine yerleştirilmiştir.
+
 •	Karmaşık bir şekilde popüler kültüre, özellikle reklam ve eğlenceye bağlıdır.
+
 •	Medya tarafından genel olarak statükoyu destekleyecek şekilde çerçevelenir ve raporlanır.
+
 •	Hükümet ve iş dünyası gibi sosyal kurumlar tarafından yönlendirilir ve etkilenir.
 
 Çevre iletişimi, gezegenin bozulmasına yönelik insanları ikna etmenin yollarını aramakla görevli bir kriz disiplinidir. İnsanların hem doğal biyolojik sistemlerin hem de insan topluluklarının refahıyla ilgili çevresel sinyallere uygun şekilde yanıt verme yeteneğini geliştirmek olarak alanın amacı tanımlanmaktadır. Şu an dünya bir krizin içerisindedir. Krizi iyi yönetmek adına çözüme odaklı bir yol haritasıyla halkla ilişkiler uygulayıcıları iletişim planlarını oluşturmalıdırlar. Burada kurumsal sosyal sorumluluk bağlamında şirketlerin yaptığı iletişim faaliyetlerinden sivil toplum kuruluşlarının yaptığı tüm iletişim faaliyetleri için geçerlidir. Bu krizin çok boyutlu ve karmaşık yapısı gereği her bir aktöre önemli sorumluluklar düşmektedir. 

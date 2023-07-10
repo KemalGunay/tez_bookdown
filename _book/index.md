@@ -53,17 +53,17 @@ Sosyal ağlarda yer alan veriler yapıları gereği hem nitel hem nicel özellik
 
 Çalışma kapsamında aşağıdaki araştırma sorularına cevap aranmıştır:
 
-AS1: İklim aktörleri Twitter sayfalarında diyalojik ilkeleri nasıl kullanmaktadır? 
+**AS1:** İklim aktörleri Twitter sayfalarında diyalojik ilkeleri nasıl kullanmaktadır? 
 
-AS2: İklim aktörlerinin diyalojik ilkeleri Twitter'da uygulamaları açısından bir farklılık gösteriyor mu?
+**AS2:** İklim aktörlerinin diyalojik ilkeleri Twitter'da uygulamaları açısından bir farklılık gösteriyor mu?
 
-AS3: Hedef kitleler beğeniler, retweetler ve yorumlar açısından Twitter'daki aktörlerle nasıl etkileşime giriyor?
+**AS3:** Hedef kitleler beğeniler, retweetler ve yorumlar açısından Twitter'daki aktörlerle nasıl etkileşime giriyor?
 
-AS4: İklim aktörleri arasında beğeniler, retweetler ve yorumlar açısından kamu katılımında bir fark var mı? 
+**AS4:** İklim aktörleri arasında beğeniler, retweetler ve yorumlar açısından kamu **katılımında bir fark var mı? 
 
-AS5: İklim aktörleri Twitter’ı Grunig ve Hunt’un dört modeline göre nasıl konumlandırmaktadır?
+**AS5:** İklim aktörleri Twitter’ı Grunig ve Hunt’un dört modeline göre nasıl konumlandırmaktadır?
 
-AS6: Çevre ve iklim değişikliği hakkında Türkiye’de Twitter ortamında gerçekleştirilen tartışmalarda sorun olarak görülen konular nelerdir ve dağılımı nedir? 
+**AS6:** Çevre ve iklim değişikliği hakkında Türkiye’de Twitter ortamında gerçekleştirilen tartışmalarda sorun olarak görülen konular nelerdir ve dağılımı nedir? 
 
 
 
