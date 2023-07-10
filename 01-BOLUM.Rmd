@@ -4,7 +4,6 @@ output:
   pdf_document: default
 ---
 
-# (PART\*)  BİRİNCİ BÖLÜM
 
 # HALKLA İLİŞKİLER KAVRAMSAL ÇERÇEVESİ {#intro}
 
