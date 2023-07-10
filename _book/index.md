@@ -1,5 +1,5 @@
 --- 
-title: "Halkla İlişkiler ve İklim Değişikliği İletişimi"
+title: "HALKLA İLİŞKİLER VE İKLİM DEĞİŞİKLİĞİ: BAKANLIKLARIN VE STK'LARIN TWİTTER ÜZERİNDEKİ HALKLA İLİŞKİLER FAALİYETLERİNİN KARŞILAŞTIRILMASI"
 author: "Kemal Günay"
 date: "2023-07-10"
 site: bookdown::bookdown_site
