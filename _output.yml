@@ -10,11 +10,15 @@ bookdown::pdf_book:
   citation_package: natbib
   keep_tex: yes
 bookdown::epub_book: default
+cover-image:
 
 output:
   pdf_document:
     toc: true
     pandoc_args: ["--wrap=none", "--top-level-division=chapter"]
+
+
+
 
 
 

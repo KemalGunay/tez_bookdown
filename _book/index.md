@@ -1,12 +1,12 @@
 --- 
 title: "HALKLA İLİŞKİLER VE İKLİM DEĞİŞİKLİĞİ: BAKANLIKLARIN VE STK'LARIN TWİTTER ÜZERİNDEKİ HALKLA İLİŞKİLER FAALİYETLERİNİN KARŞILAŞTIRILMASI"
 author: "Kemal Günay"
-date: "2023-07-10"
+date: "2023-07-12"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: [book.bib, packages.bib]
-# url: your book url like https://bookdown.org/yihui/bookdown
-# cover-image: path to the social sharing image like images/cover.jpg
+url: https://pr-iklim-degisikligi-iletisimi.netlify.app
+cover-image: kapak.png
 description: |
   This is a minimal example of using the bookdown package to write a book.
   The HTML output format for this example is bookdown::bs4_book,

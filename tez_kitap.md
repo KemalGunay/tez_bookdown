@@ -1,12 +1,12 @@
 --- 
 title: "HALKLA İLİŞKİLER VE İKLİM DEĞİŞİKLİĞİ: BAKANLIKLARIN VE STK'LARIN TWİTTER ÜZERİNDEKİ HALKLA İLİŞKİLER FAALİYETLERİNİN KARŞILAŞTIRILMASI"
 author: "Kemal Günay"
-date: "2023-07-10"
+date: "2023-07-12"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: [book.bib, packages.bib]
-# url: your book url like https://bookdown.org/yihui/bookdown
-# cover-image: path to the social sharing image like images/cover.jpg
+url: https://pr-iklim-degisikligi-iletisimi.netlify.app
+cover-image: kapak.png
 description: |
   This is a minimal example of using the bookdown package to write a book.
   The HTML output format for this example is bookdown::bs4_book,
@@ -453,6 +453,7 @@ output:
   pdf_document: default
 ---
 
+# (PART\*) **BİRİNCİ BÖLÜM** {-}
 
 # HALKLA İLİŞKİLER KAVRAMSAL ÇERÇEVESİ {#intro}
 
@@ -812,7 +813,7 @@ You can write citations, too. For example, we are using the **bookdown** package
 <!--chapter:end:01-BOLUM.Rmd-->
 
 
-
+# (PART\*) **İKİNCİ BÖLÜM** {-}
 	
 # İKLİM DEĞİŞİKLİĞİ ÜZERİNE KURAMSAL BİR ÇERÇEVE
 Çalışmanın ikinci bölümü, iklim değişikliği üzerine kavramsal bir çerçeve çizmeyi amaçlamaktadır. Bu bağlamda iklim değişikliği, iklim krizi ve küresel ısınma gibi kavramlar tanımlanmış ve aralarındaki nüanslar ele alınmıştır. İklim krizinin etkileri ve sonuçları tartışılmış, ayrıca iklim değişikliğine yönelik alınabilecek önlemler hakkında bilgi verilmiştir. Çevre ve iklim iletişimi bağlamında halkla ilişkiler uygulamalarını yorumlayabilmek için bu başlıklar önem arz etmektedir.
@@ -1182,7 +1183,7 @@ Chomsky’nin belirttiği gibi, iklim kriziyle ilgili yapmamız gereken yeni gö
 <!--chapter:end:02-BOLUM.Rmd-->
 
 
-
+# (PART\*) **ÜÇÜNCÜ BÖLÜM** {-}
 
 # İKLİM DEĞİŞİKLİĞİ İLETİŞİMİ ve AKTÖRLERİ 
 
@@ -1586,6 +1587,7 @@ Kamu politikaları, belirli amaçları gerçekleştirmek için bireylerin inanç
 
 <!--chapter:end:03-BOLUM.Rmd-->
 
+# (PART\*) **DÖRDÜNCÜ BÖLÜM** {-}
 
 # HALKLA İLİŞKİLER BAĞLAMINDA İKLİM KRİZİ VE AKTÖRLERİ ÜZERİNE BİR ARAŞTIRMA
 ## Araştırmaya Giriş
