@@ -4,7 +4,7 @@ output:
   pdf_document: default
 ---
 
-# (PART\*) **BİRİNCİ BÖLÜM** {-}
+# (PART\*) BİRİNCİ BÖLÜM {-}
 
 # HALKLA İLİŞKİLER KAVRAMSAL ÇERÇEVESİ {#intro}
 
@@ -63,7 +63,11 @@ Halkla ilişkiler organizasyonlarının etkililik bakımından asimetrik modelde
 
 
 **Şekil 1.2:** Halkla İlişkiler Stratejik Yönetim Modeli.
+```{r, echo=FALSE, out.width="95%", out.height= "95%", fig.cap="Kaynak: (Mavimbela ve diğerleri, 2018: 42)"}
+knitr::include_graphics("/Users/kemalgunay/Desktop/VERI_BILIMI/tez_bookdown2/tablolar-sekiller/sekil-1.2.png")
+```
 
+ 
 
 
 
