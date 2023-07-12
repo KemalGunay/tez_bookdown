@@ -27,7 +27,7 @@ Bir olgunun nerede, ne zaman ve nasıl başladığını bilmek de genellikle ne 
 Bazı yazarlar, geçmişte halkla ilişkiler kavramsal olarak kullanılmasa da halkla ilişkiler faaliyetlerinin olduğunu savunmaktadır. Halkla ilişkilerin başlangıcının, eski Yunan ve Roma imparatorluğu zamanında Julius Cesar ve Cicero’nun yapmış olduğu kamuoyunu biçimlendirmesi çalışmalarına kadar dayandığı ifade edilebilir. Cutlip ve Center ise, M.Ö. 1800’lü yıllarda, çiftçilere yönelik olarak hazırlanan tarımsal bir ürünün yetiştirilmesi ve ürünün zararlı etkilerinden korunmak gibi bilgileri içeren tabletleri; ilk halkla ilişkiler örnekleri olarak göstererek, bu tabletlerin bugünün Birleşik Devletler Tarım Bakanlığı tarafından hazırlanan bültenlerden çok da farklı olmadığını iddia etmişlerdir.[@peltekoglu2016halkla] \@ref(fig:sekilll)Şekil 1.1’de halkla ilişkiler literatüründe yaygın olarak bilinen olayların bir çizelgesi yer almaktadır.   
 
 
-\@ref(fig:sekilll)
+
 **Şekil 1.1:**  Halkla İlişkilerde Olayları ve Kişileri Tanımlama Zaman Çizelgesi.
 
 

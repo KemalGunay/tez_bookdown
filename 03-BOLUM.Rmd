@@ -1,5 +1,5 @@
 
-# (PART\*) **ÜÇÜNCÜ BÖLÜM** {-}
+# (PART\*) ÜÇÜNCÜ BÖLÜM {-}
 
 # İKLİM DEĞİŞİKLİĞİ İLETİŞİMİ ve AKTÖRLERİ 
 

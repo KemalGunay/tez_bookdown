@@ -1,4 +1,4 @@
-# (PART\*) **DÖRDÜNCÜ BÖLÜM** {-}
+# (PART\*) DÖRDÜNCÜ BÖLÜM {-}
 
 # HALKLA İLİŞKİLER BAĞLAMINDA İKLİM KRİZİ VE AKTÖRLERİ ÜZERİNE BİR ARAŞTIRMA
 ## Araştırmaya Giriş

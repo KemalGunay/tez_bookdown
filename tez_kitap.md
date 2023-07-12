@@ -453,7 +453,7 @@ output:
   pdf_document: default
 ---
 
-# (PART\*) **BİRİNCİ BÖLÜM** {-}
+# (PART\*) BİRİNCİ BÖLÜM {-}
 
 # HALKLA İLİŞKİLER KAVRAMSAL ÇERÇEVESİ {#intro}
 
@@ -476,7 +476,7 @@ Bir olgunun nerede, ne zaman ve nasıl başladığını bilmek de genellikle ne 
 Bazı yazarlar, geçmişte halkla ilişkiler kavramsal olarak kullanılmasa da halkla ilişkiler faaliyetlerinin olduğunu savunmaktadır. Halkla ilişkilerin başlangıcının, eski Yunan ve Roma imparatorluğu zamanında Julius Cesar ve Cicero’nun yapmış olduğu kamuoyunu biçimlendirmesi çalışmalarına kadar dayandığı ifade edilebilir. Cutlip ve Center ise, M.Ö. 1800’lü yıllarda, çiftçilere yönelik olarak hazırlanan tarımsal bir ürünün yetiştirilmesi ve ürünün zararlı etkilerinden korunmak gibi bilgileri içeren tabletleri; ilk halkla ilişkiler örnekleri olarak göstererek, bu tabletlerin bugünün Birleşik Devletler Tarım Bakanlığı tarafından hazırlanan bültenlerden çok da farklı olmadığını iddia etmişlerdir.[@peltekoglu2016halkla] \@ref(fig:sekilll)Şekil 1.1’de halkla ilişkiler literatüründe yaygın olarak bilinen olayların bir çizelgesi yer almaktadır.   
 
 
-\@ref(fig:sekilll)
+
 **Şekil 1.1:**  Halkla İlişkilerde Olayları ve Kişileri Tanımlama Zaman Çizelgesi.
 
 
@@ -512,7 +512,11 @@ Halkla ilişkiler organizasyonlarının etkililik bakımından asimetrik modelde
 
 
 **Şekil 1.2:** Halkla İlişkiler Stratejik Yönetim Modeli.
+\begin{figure}
+\includegraphics[width=0.95\linewidth,height=0.95\textheight]{tablolar-sekiller/sekil-1.2} \caption{Kaynak: (Mavimbela ve diğerleri, 2018: 42)}(\#fig:unnamed-chunk-1)
+\end{figure}
 
+ 
 
 
 
@@ -613,7 +617,7 @@ Anlaşma oryantasyonlu halkla ilişkiler yaklaşımı, Burkart tarafından form�
 **Tablo 1.2** Anlaşma Oryantasyonlu Halkla İlişkiler Safhaları.
 
 \begin{figure}
-\includegraphics[width=0.95\linewidth,height=0.95\textheight]{tablolar-sekiller/tablo-1.2} \caption{Kaynak: (Ayla Okay ve Okay, 2002: 95)}(\#fig:unnamed-chunk-1)
+\includegraphics[width=0.95\linewidth,height=0.95\textheight]{tablolar-sekiller/tablo-1.2} \caption{Kaynak: (Ayla Okay ve Okay, 2002: 95)}(\#fig:unnamed-chunk-2)
 \end{figure}
 
 
@@ -640,7 +644,7 @@ James Grunig’e göre, 1850’lerden itibaren halkla ilişkiler uygulamaları d
 
 
 \begin{figure}
-\includegraphics[width=0.95\linewidth,height=0.95\textheight]{tablolar-sekiller/tablo-1.3} \caption{Kaynak: (Mavimbela ve diğerleri, 2018: 42)}(\#fig:unnamed-chunk-2)
+\includegraphics[width=0.95\linewidth,height=0.95\textheight]{tablolar-sekiller/tablo-1.3} \caption{Kaynak: (Mavimbela ve diğerleri, 2018: 42)}(\#fig:unnamed-chunk-3)
 \end{figure}
 
  
@@ -697,7 +701,7 @@ Dijital medya; küresel, stratejik, iki yönlü, etkileşimli, simetrik/diyaloji
 **Şekil 1.3:** Phillips'in Dijital İletişim Araçları Modeli. 
 
 \begin{figure}
-\includegraphics[width=0.95\linewidth,height=0.95\textheight]{tablolar-sekiller/sekil-1} \caption{Kaynak: (Mavimbela ve diğerleri, 2018: 42)}(\#fig:unnamed-chunk-3)
+\includegraphics[width=0.95\linewidth,height=0.95\textheight]{tablolar-sekiller/sekil-1} \caption{Kaynak: (Mavimbela ve diğerleri, 2018: 42)}(\#fig:unnamed-chunk-4)
 \end{figure}
 
  
@@ -813,7 +817,7 @@ You can write citations, too. For example, we are using the **bookdown** package
 <!--chapter:end:01-BOLUM.Rmd-->
 
 
-# (PART\*) **İKİNCİ BÖLÜM** {-}
+# (PART\*) İKİNCİ BÖLÜM {-}
 	
 # İKLİM DEĞİŞİKLİĞİ ÜZERİNE KURAMSAL BİR ÇERÇEVE
 Çalışmanın ikinci bölümü, iklim değişikliği üzerine kavramsal bir çerçeve çizmeyi amaçlamaktadır. Bu bağlamda iklim değişikliği, iklim krizi ve küresel ısınma gibi kavramlar tanımlanmış ve aralarındaki nüanslar ele alınmıştır. İklim krizinin etkileri ve sonuçları tartışılmış, ayrıca iklim değişikliğine yönelik alınabilecek önlemler hakkında bilgi verilmiştir. Çevre ve iklim iletişimi bağlamında halkla ilişkiler uygulamalarını yorumlayabilmek için bu başlıklar önem arz etmektedir.
@@ -1183,7 +1187,7 @@ Chomsky’nin belirttiği gibi, iklim kriziyle ilgili yapmamız gereken yeni gö
 <!--chapter:end:02-BOLUM.Rmd-->
 
 
-# (PART\*) **ÜÇÜNCÜ BÖLÜM** {-}
+# (PART\*) ÜÇÜNCÜ BÖLÜM {-}
 
 # İKLİM DEĞİŞİKLİĞİ İLETİŞİMİ ve AKTÖRLERİ 
 
@@ -1587,7 +1591,7 @@ Kamu politikaları, belirli amaçları gerçekleştirmek için bireylerin inanç
 
 <!--chapter:end:03-BOLUM.Rmd-->
 
-# (PART\*) **DÖRDÜNCÜ BÖLÜM** {-}
+# (PART\*) DÖRDÜNCÜ BÖLÜM {-}
 
 # HALKLA İLİŞKİLER BAĞLAMINDA İKLİM KRİZİ VE AKTÖRLERİ ÜZERİNE BİR ARAŞTIRMA
 ## Araştırmaya Giriş
